@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Random Meme Generator</h1>
 
 <p id="description">
-Unleash your inner meme lord with this interactive meme generator! Built with React.js, it taps into a powerful REST API to fuel your meme creation. Feeling spontaneous? Click the "Random" button and a hilarious meme template awaits. Craving something specific? Just type your desired caption and hit "Generate" – the API will find the perfect meme to match your comedic vision. So get ready to share the laughs with this fun and user-friendly web app.</p>
+Channel your meme mastery with this React.js powered web app! It harnesses a robust REST API to bring your meme dreams to life. Feeling lucky? Hit "Random" and discover a comedic gem. Got a specific idea brewing? Craft your caption and click "Generate" – the API will scour the web to find the ideal meme canvas for your wit. Laughter is just a click away with this intuitive and endlessly entertaining meme generator.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="shields”>
