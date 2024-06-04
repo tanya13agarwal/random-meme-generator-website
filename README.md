@@ -10,7 +10,7 @@ Channel your meme mastery with this React.js powered web app! It harnesses a rob
 
 <h2>🚀 Live </h2>
 
-[Random Meme Generator]( https://counter-website-sepia.vercel.app/  )
+[Random Meme Generator](https://random-meme-generator-website-66nkrz9pz.vercel.app/)
 
 <br></br>
   
